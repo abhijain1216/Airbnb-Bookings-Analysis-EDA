@@ -17,3 +17,41 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 ### *Problem Statement*
 
 Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present a more unique, personalised way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world.Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analysed and used for security, business decisions, understanding of customers and providers (hosts) behaviour and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more. This dataset has around 49,000 observations in it with 16 columns and it is a mix of categorical and numeric values. Explore and analyse the data to discover key understandings.
+
+### *Dataset Information*
+
+* This dataset contains information about Airbnb bookings made in New York City in 2019.
+* This dataset has around 49,000 observations in it with 16 columns and it is a mix of categorical and numeric values.
+
+#### *Variable Description*
+
+* **id** : Unique listing id
+* **name** : Name of the listing
+* **host_id** : Unique host id
+* **host_name** : Name of the host
+* **neighbourhood_group** : Location
+* **neighbourhood** : Area fall under neighbourhood group
+* **latitude** : Latitude Coordinates
+* **longitude** : Longitude Coordinates
+* **room_type** : Listing space type
+* **price** : Price of listing
+* **minimum_nights** : Minimum nights to be paid for
+* **number_of_reviews** : Number of reviews given
+* **last_review** : Date of last review given
+* **reviews_per_month** : Number of reviews per month
+* **calculated_host_listings_count** : Amount of Listing per host
+* **availability_365** : Number of days when listing is available for booking
+
+### *Project Work flow*
+
+1. Importing Libraries
+
+2. Loading the Dataset
+
+3. Explore Dataset
+
+4. Data Wrangling
+
+5. Data Vizualization & Storytelling 
+
+6. Conclusions
