@@ -55,3 +55,10 @@ Since 2008, guests and hosts have used Airbnb to expand on travelling possibilit
 5. Data Vizualization & Storytelling 
 
 6. Conclusions
+
+### *Python Libraries Used*
+
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
